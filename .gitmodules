@@ -2,3 +2,7 @@
 	path = apktool
 	url = git://github.com/nobidev/Apktool.git
 	branch = master
+[submodule "dex2jar"]
+	path = dex2jar
+	url = git://github.com/pxb1988/dex2jar
+	branch = 2.x
