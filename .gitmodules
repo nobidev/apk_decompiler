@@ -1,0 +1,4 @@
+[submodule "apktool"]
+	path = apktool
+	url = git://github.com/nobidev/Apktool.git
+	branch = master
